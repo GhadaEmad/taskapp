@@ -57,7 +57,7 @@ class ContainerTask extends StatelessWidget {
                 ),
               ),
               RotatedBox(
-                quarterTurns: 3, // يدور النص بزاوية 90 درجة
+                quarterTurns: 3, 
                 child: Text(
                   'TODO',
                   style: TextStyle(
